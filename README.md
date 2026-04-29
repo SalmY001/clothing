@@ -11,6 +11,7 @@ None
 ## Usage
 An example image of the Power BI mens clothing report is displayed below.
 
+<img width="569" height="805" alt="image" src="https://github.com/user-attachments/assets/1b21f7db-9883-478e-a0d6-6c825a77c90b" />
 
 The application is deployed in the link below.
 
