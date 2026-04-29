@@ -5,10 +5,10 @@ Power BI project on mens clothing. The project aims to show top 5 categories for
 
 The project highlights skills in data cleaning, and visualization by creating a donut chart, area chart, circle graph, bar chart, and ribbon chart.
 
-##Installation
+## Installation
 None
 
-##Usage
+## Usage
 An example image of the Power BI mens clothing report is displayed below.
 
 
@@ -16,7 +16,7 @@ The application is deployed in the link below.
 
 https://salmy001.github.io/clothing/
 
-##Credits
+## Credits
 Content viewed that helped with the project include:
 
 13+ Power BI Portfolio Projects with DAX & SQL (2026) on Udemy
